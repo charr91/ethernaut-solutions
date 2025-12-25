@@ -1,0 +1,19 @@
+# Compiler files
+cache/
+out/
+
+# Broadcast logs (transactions are on-chain anyway)
+broadcast/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
